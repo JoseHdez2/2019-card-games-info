@@ -1,0 +1,123 @@
+[
+  {
+    "name": "Anchor",
+    "type": "Common Relic",
+    "desc": "Start each combat with 10 Block."
+  },
+  {
+    "name": "Ancient Tea Set",
+    "type": "Common Relic",
+    "desc": "Whenever you enter a Rest Site, start the next combat with OO."
+  },
+  {
+    "name": "Bag of Preparation",
+    "type": "Common Relic",
+    "desc": "At the start of each combat, draw 2 additional cards."
+  },
+  {
+    "name": "Black Blood",
+    "type": "Boss Relic",
+    "desc": "Replaces Burning Blood. At the end of combat, heal 10 HP."
+  },
+  {
+    "name": "Burning Blood",
+    "type": "Starter Relic",
+    "desc": "At the end of combat, heal 6 HP."
+  },
+  {
+    "name": "Bag of Marbles",
+    "type": "Relic",
+    "desc": "At the start of each combat, apply 1 Vulnerable to ALL enemies."
+  },
+  {
+    "name": "Bronze Scales",
+    "type": "Common Relic",
+    "desc": "Start each combat with 3 Thorns."
+  },
+  {
+    "name": "Bottled Flame",
+    "type": "Unommon Relic",
+    "desc": "Start each combat with [Chosen Attack] in your hand."
+  },
+  {
+    "name": "Calling Bell",
+    "type": "Relic",
+    "desc": "Upon pickup, obtain 3 Curses and 3 Relics."
+  },
+  {
+    "name": "Centennial Puzzle",
+    "type": "Common Relic",
+    "desc": "The first time you lose HP each combat, draw 3 cards."
+  },
+  {
+    "name": "Chemical X",
+    "type": "Relic",
+    "desc": "The effects of your cost X cards are increased by 2."
+  },
+  {
+    "name": "Cracked Core",
+    "type": "Starter Relic",
+    "desc": "At the start of each combat, Channel 1 Lighting."
+  },
+  {
+    "name": "Frozen Egg",
+    "type": "Relic",
+    "desc": "Whenever you add a Power card into your deck, Upgrade it."
+  },
+  {
+    "name": "Girya",
+    "type": "Rare Relic",
+    "desc": "You can now gain Strength at Rest Sites (up to 3 times)."
+  },
+  {
+    "name": "Juzu Bracelet",
+    "type": "Common Relic",
+    "desc": "Normal enemy combats are no longer encountered in ? rooms."
+  },
+  {
+    "name": "Philosopher's Stone",
+    "type": "Boss Relic",
+    "desc": "Gain O at the start of your turn. ALL enemies start combat with 1 Strength."
+  },
+  {
+    "name": "Matryoshka",
+    "type": "Uncommon Relic",
+    "desc": "The next 2 non-Boss chests you open contain 2 Relics.",
+    "flavor": "A stackable set of painted dolls. The paint depicts an unknown bird with white eyes and blue feathers."
+  },
+  {
+    "name": "Meat on the Bone",
+    "type": "Uncommon Relic",
+    "desc": "If your HP is at or below 50% at the end of combat, heal 12 HP."
+  },
+  {
+    "name": "Molten Egg",
+    "type": "Uncommon Relic",
+    "desc": "Whenever you add an Attack card into your deck, Upgrade it."
+  },
+  {
+    "name": "Mummified Hand",
+    "type": "Relic",
+    "desc": "Whenever you play a Power card, a random card in your hand costs 0 that turn."
+  },
+  {
+    "name": "Runic Pyramid",
+    "type": "Boss Relic",
+    "desc": "At the end of your turn, you no longer discard your hand."
+  },
+  {
+    "name": "The Abacus",
+    "type": "Relic",
+    "desc": "WIP"
+  },
+  {
+    "name": "Vajra",
+    "type": "Common Relic",
+    "desc": "Start each combat with 1 Strength."
+  },
+  {
+    "name": "",
+    "type": "Relic",
+    "desc": ""
+  }
+]

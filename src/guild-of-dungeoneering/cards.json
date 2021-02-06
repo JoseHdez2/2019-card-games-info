@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Bite",
+    "type": "Feral I, Feral II",
+    "desc": "1 Physical damage [unblockable]."
+  },
+  {
+    "name": "Claw",
+    "type": "Nature I",
+    "desc": "1ATK"
+  },
+  {
+    "name": "Cower",
+    "type": "Chump",
+    "desc": "1XDEF"
+  },
+  {
+    "name": "Eyes closed punch",
+    "type": "Chump",
+    "desc": "1 Physical damage."
+  },
+  {
+    "name": "Holy Seal",
+    "type": "Holy I",
+    "desc": "Block 1 any. +1 heart per dmg blocked."
+  },
+  {
+    "name": "Lucky hit",
+    "type": "Chump",
+    "desc": "2 Physical damage."
+  },
+  {
+    "name": "Neurotoxin",
+    "type": "Nature II",
+    "desc": "1 Physical damage: enemy discard 1 card."
+  },
+  {
+    "name": "Oi!",
+    "type": "Bruiser",
+    "desc": "1ATK"
+  },
+  {
+    "name": "Smite",
+    "type": "Holy II",
+    "desc": "2 magic damage. Block 1 magic dmg."
+  },
+  { "name": "Catnip" },
+  { "name": "How do you like this?" },
+  { "name": "Nice try, chump." },
+  { "name": "Pounce" },
+  { "name": "Repel" },
+  { "name": "Scratch" },
+  { "name": "Throw Cat" }
+]

@@ -1,0 +1,30 @@
+{
+  "name": "card-games-info",
+  "version": "1.0.0",
+  "description": "Info about card-based games: Slay the Spire and Guild of Dungeoneering",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.8.6",
+    "react-bootstrap": "1.0.0-beta.12",
+    "react-dom": "16.8.6",
+    "react-native-web": "0.11.7",
+    "react-router-native": "5.0.1",
+    "react-scripts": "3.0.1"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

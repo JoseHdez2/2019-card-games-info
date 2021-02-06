@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Club",
+    "type": "C2 Weapon",
+    "skills": ["Crush I", "Growth I"],
+    "desc": "A heavy wooden club. ME SMASH NOW!"
+  },
+  {
+    "name": "Cooking Pot",
+    "type": "C2 Head",
+    "skills": ["Crush I", "Fire I"],
+    "desc": "Lunkhead"
+  },
+  {
+    "name": "Paper Crown",
+    "type": "C1 Head",
+    "skills": ["Holy I"],
+    "desc": "We having a party?"
+  },
+  {
+    "name": "Stiletto",
+    "type": "C2 Weapon",
+    "skills": ["Blade I", "Swift I"],
+    "desc": "And not the shoe"
+  },
+  {
+    "name": "Straitjacket",
+    "type": "C1 Body",
+    "skills": ["1HP"],
+    "desc": "We're not crazy, the rest of the world is!"
+  },
+  { "name": "Cuppa" },
+  { "name": "Glyph" },
+  { "name": "Ruffled Shirt" },
+  { "name": "Sparkly Headband" },
+  { "name": "Shimmering Cloak" },
+  { "name": "Tattered Mail" },
+  { "name": "Wooden Board" },
+  { "name": "Wooden Stool" },
+  {
+    "name": "Twig",
+    "type": "C1 Weapon",
+    "skills": ["Crush I"],
+    "desc": "ALL FEAR THE MIGHTY TWIG"
+  }
+]

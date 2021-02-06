@@ -1,0 +1,74 @@
+[
+  { "name": "Strike", "type": "Attack", "desc": "Deal 6 damage." },
+  { "name": "Defend", "type": "Skill", "desc": "Gain 5 block." },
+  {
+    "name": "Anger",
+    "type": "Attack",
+    "desc": "Deal 7 damage. Add a copy of this card into your discard pile."
+  },
+  {
+    "name": "Bash",
+    "type": "Attack",
+    "desc": "Deal 8 damage. Apply 2 Vulnerable."
+  },
+  {
+    "name": "Clash",
+    "type": "Attack",
+    "desc": "Can only be played if every card in your hand is an Attack. Deal 14 damage."
+  },
+  {
+    "name": "Demon Form",
+    "type": "Power",
+    "desc": "At the start of your turn, gain 2 Strength."
+  },
+  {
+    "name": "Fire Breathing",
+    "type": "Power",
+    "desc": "At the end of your turn, deal 1 damage to ALL enemies for each Attack played this turn."
+  },
+  {
+    "name": "Heavy Blade",
+    "type": "Attack",
+    "desc": "Deal 14 damage. Strength affects this card 3 times."
+  },
+  {
+    "name": "Infernal Blade",
+    "type": "Skill",
+    "desc": "Add a random Attack into your hand. It costs 0 this turn. Exhaust."
+  },
+  {
+    "name": "Iron Wave",
+    "type": "Attack",
+    "desc": "Gain 5 Block. Deal 5 damage."
+  },
+  {
+    "name": "Pommel Strike",
+    "type": "Attack",
+    "desc": "Deal 9 damage. Draw 1 card."
+  },
+  {
+    "name": "Power Through",
+    "type": "Skill",
+    "desc": "Add 2 Wounds into your hand. Gain 15 Block."
+  },
+  {
+    "name": "Regret",
+    "type": "Curse",
+    "desc": "At the end of your turn, lose HP equal to the number of cards in your hand."
+  },
+  {
+    "name": "Thunderclap",
+    "type": "Attack",
+    "desc": "Deal 4 damage and apply 1 Vulnerable to ALL enemies."
+  },
+  {
+    "name": "",
+    "type": "",
+    "desc": ""
+  },
+  {
+    "name": "Whirlwind",
+    "type": "Attack",
+    "desc": "Deal 5 damage to ALL enemies X times."
+  }
+]

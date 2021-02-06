@@ -1,0 +1,99 @@
+[
+  {
+    "name": "Attack",
+    "desc": "[Reduces enemy HP]"
+  },
+  {
+    "name": "Block",
+    "desc": "Until next turn, prevents damage."
+  },
+  {
+    "name": "Barricade",
+    "desc": "[Block is not removed at the start of the turn.]",
+    "enemy": "Block is not removed at the start of its turn."
+  },
+  {
+    "name": "Channel",
+    "desc": "Channeling an Orb puts it into your first empty slot. If you have no more empty slots, your first Orb is automatically Evoked to make room."
+  },
+  {
+    "name": "Confused",
+    "desc": "Whenever you draw a card, randomize its cost."
+  },
+  {
+    "name": "Ethereal",
+    "desc": "If this card is in your hand at the end of turn, it is exhausted. Exhausted cards are removed from your deck until the end of combat."
+  },
+  {
+    "name": "Evoke",
+    "desc": "Consume your rightmost Orb and use its Evoke effect."
+  },
+  {
+    "name": "Exhaust",
+    "desc": "Removed until end of combat."
+  },
+  {
+    "name": "Fire Breathing",
+    "desc": "At the end of your turn, deal 1 damage to ALL enemies for each Attack played this turn."
+  },
+  {
+    "name": "Frost",
+    "desc": "Orb: Gains Block."
+  },
+  {
+    "name": "Lightning",
+    "desc": "Orb: Deals damage to random enemies."
+  },
+  {
+    "name": "Hex",
+    "desc": "Whenever you play a non-Attack card, deal 1 damage for each Attack played this turn."
+  },
+  {
+    "name": "Innate",
+    "desc": "Start each combat with this card in your hand."
+  },
+  {
+    "name": "Intangible",
+    "desc": "Reduce ALL damage taken and HP loss to 1 this turn. Intangible is reapplied every other turn."
+  },
+  {
+    "name": "Power",
+    "desc": "[Power cards are cards that imbue your character with a beneficial effect.]"
+  },
+  {
+    "name": "Strength",
+    "desc": "Strength adds additional damage to attacks."
+  },
+  {
+    "name": "Thorns",
+    "desc": "When receiving Attack damage, deals damage back."
+  },
+  {
+    "name": "Malleable",
+    "desc": "Upon receiving damage, gains M Block. Block gain increases as Malleable is triggered. Resets to N at the start of your turn."
+  },
+  {
+    "name": "No Draw",
+    "desc": "You cannot draw cards this turn."
+  },
+  {
+    "name": "Unplayable",
+    "desc": "Unplayable cards cannot be played from your hand."
+  },
+  {
+    "name": "Upgrade",
+    "desc": "Upgrading cards makes them more powerful. Cards can only be upgraded once."
+  },
+  {
+    "name": "Vulnerable",
+    "desc": "Vulnerable creatures take 50% more damage from Attacks."
+  },
+  {
+    "name": "Weak",
+    "desc": "Weakened creatures deal 25% less damage with Attacks."
+  },
+  {
+    "name": "",
+    "desc": ""
+  }
+]
